@@ -1,0 +1,10 @@
+mkdir
+touch
+clear
+ls
+git init
+ls -a
+git status
+git add .
+git commit -m 
+git log
