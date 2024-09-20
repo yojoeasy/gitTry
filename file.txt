@@ -11,3 +11,35 @@ git log
 git merge
 
 :q!
+mkdir
+touch
+clear
+ls
+git init
+ls -a
+git status
+git add .
+git commit -m 
+git log 
+  .gitignore
+open -a /Applications/Visual\Studio/Code.app .gitignore
+git rm --cached -r .
+git clone link
+git branch nane
+git branch
+git checkout branch name
+
+
+…or create a new repository on the command line
+echo "# gitTry" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yojoeasy/gitTry.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/yojoeasy/gitTry.git
+git branch -M main
+git push -u origin main
