@@ -8,3 +8,6 @@ git status
 git add .
 git commit -m 
 git log
+git merge
+
+:q!
