@@ -7,11 +7,15 @@ ls -a
 git status
 git add .
 git commit -m 
-git log
-.gitignore
+git log 
+  .gitignore
 open -a /Applications/Visual\Studio/Code.app .gitignore
 git rm --cached -r .
-git clone
+git clone link
+git branch nane
+git branch
+git checkout branch name
+
 
 …or create a new repository on the command line
 echo "# gitTry" >> README.md
